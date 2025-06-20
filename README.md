@@ -98,6 +98,7 @@ data-warehouse-project/
 ├── .gitignore # Git ignore config
 └── requirements.txt # Dependencies and setup requirements
 
+---
 
 ## 🛡️ License
 
