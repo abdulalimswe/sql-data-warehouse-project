@@ -46,8 +46,7 @@ Everything is **Free & Open Source** 🎉
 | [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) | Lightweight RDBMS |
 | [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) | SQL Server Management Studio |
 | [Draw.io](https://www.drawio.com/) | Data modeling & architecture diagrams |
-| [Project Template (Notion)](https://www.notion.com/templates/sql-data-warehouse-project) | Project planning template |
-| [Project Phases & Tasks (Notion)](https://thankful-pangolin-2ca.notion.site/SQL-Data-Warehouse-Project-16ed041640ef80489667cfe2f380b269?pvs=4) | Step-by-step execution guide |
+| [Project Template (Notion)](https://abdulalimswe.notion.site/Data-Warehouse-Project-21244dbfc2ea80b8967ce4243900447c?pvs=73) | Project planning template |
 
 ---
 
