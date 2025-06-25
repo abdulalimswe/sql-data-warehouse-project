@@ -44,7 +44,7 @@ Everything is **Free & Open Source** 🎉
 |----------|-------------|
 | [Datasets](datasets/) | CSV files for ERP & CRM systems |
 | [SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) | Lightweight RDBMS |
-| [SSMS](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16) | SQL Server Management Studio |
+| [Azure Data Studio]([https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16](https://azure.microsoft.com/en-us/products/data-studio)) | Azure Data Studio|
 | [Draw.io](https://www.drawio.com/) | Data modeling & architecture diagrams |
 | [Project Template (Notion)](https://abdulalimswe.notion.site/Data-Warehouse-Project-21244dbfc2ea80b8967ce4243900447c?pvs=73) | Project planning template |
 
@@ -67,7 +67,7 @@ Everything is **Free & Open Source** 🎉
   - 📦 Product Performance
   - 💰 Sales Trends
 
-Refer to [`docs/requirements.md`](docs/requirements.md) for full details.
+Refer to [`docs/documents.md`](docs/documents.md) for full details.
 
 ---
 
