@@ -1,3 +1,41 @@
+/*
+===============================================================================
+Stored Procedure: bronze.load_bronze
+===============================================================================
+
+Purpose:
+    This stored procedure is responsible for loading data into the 'bronze' schema 
+    from external CSV files. It facilitates raw data ingestion as part of the 
+    data warehouse ETL pipeline.
+
+Functionality:
+    - Truncates existing data in the target 'bronze' tables to ensure a clean load.
+    - Loads new data from corresponding CSV files using the `BULK INSERT` command.
+
+Parameters:
+    None. 
+    This stored procedure does not accept any input parameters or return any output.
+
+Usage:
+    To execute the procedure and load fresh data into the bronze layer, run:
+        EXEC bronze.load_bronze;
+
+Notes:
+    - Ensure that the CSV files exist at the specified file paths with proper permissions.
+    - File format and column mappings must align exactly with the table schema.
+    - This procedure should typically be invoked as part of a scheduled ETL job or pipeline.
+
+WARNING:
+    Running this procedure will permanently delete any existing data in the 'bronze' tables 
+    before inserting new records. Make sure this is intended before execution.
+
+Author:
+	Md. Abdul Alim — 25 Jun 2025
+
+===============================================================================
+*/
+
+
 -- EXEC bronze.load_bronze
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS
